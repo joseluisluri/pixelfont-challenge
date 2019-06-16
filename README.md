@@ -1,12 +1,16 @@
-# PixelFontParser Challenge
+# Welcome to the Pixel Font Challenge
 
-## Objectives
+Learn about software development through guided exercises
 
-- Improve your skills on functional programming
-- Play and learn with Java 11 and the Java Stream API
-- Enjoy and have fun
+## Table of contents
 
-## Setup 
+- [Setup](#setup)
+- [Problem definition](#problem-definition)
+- [Requirements](#requirements)
+- [How to get started](#how-to-get-started)
+- [Solution](#solution)
+
+## Setup
 
 The following tools must be installed on your computer:
 
@@ -87,5 +91,9 @@ Follow the steps below:
 
 1. Make sure you **understand** the problem
 2. Read and **analyze** the tests
-3. **Research** about Java Stream API (map, reduce, IntStream, )
-4. **Implement** your solution in [PixelFontParserImpl](https://github.com/joseluisluri/kata-flyweight/blob/master/src/main/java/brick/BrickFactoryImpl.java)
+3. **Research** about Java Stream API (map, reduce, IntStream, Optional, etc.)
+4. **Implement** your solution in [PixelFontParserImpl](https://github.com/joseluisluri/pixelfont-challenge/blob/master/src/main/java/PixelFontParserImpl.java)
+
+## Solution
+
+You can find a possible solution in the branch called "solved".
