@@ -31,9 +31,9 @@ Make sure Java 11 features enabled:
 
 ## Problem definition
 
-In a bitmap, a number is composed by digits, and each digit by a group of pixels. For this challenge, a digit is represented in a flat array of 12 slots (3x4) and each pixel, can take the value 1 (filled) or 0 (empty).
+In a bitmap, a number is composed by digits, and each digit by a group of pixels. For this challenge, a digit is represented in a flat array of 12 slots (3x4). Each pixel can take the value 1 (filled) or 0 (empty).
 
-A digit is something like that:
+A digit is something like this:
 
 |Image|ASCII|
 |-|-|
